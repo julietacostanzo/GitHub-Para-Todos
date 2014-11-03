@@ -1,4 +1,4 @@
-# Modificame
+# Relato Policial Argentino
 
 Éste es un primer texto para *modificar*, **cambiar** y jugar.
 
@@ -9,7 +9,7 @@ Pueden:
 - Borrarme
 - Modificarme
 - Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
+- [Enlace](http://lomioesamateur.wordpress.com/el-cuento-del-mes/la-loca-y-el-relato-del-crimen-de-ricardo-piglia/)
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![beemo](http://www.educaplay.com/es/recursoseducativos/889675/relato_policial.htm 
 
